@@ -1,0 +1,7 @@
+C:\Users\User0\source\repos\ArraySumTo10\ArraySumTo10\bin\Debug\ArraySumTo10.exe.config
+C:\Users\User0\source\repos\ArraySumTo10\ArraySumTo10\bin\Debug\ArraySumTo10.exe
+C:\Users\User0\source\repos\ArraySumTo10\ArraySumTo10\bin\Debug\ArraySumTo10.pdb
+C:\Users\User0\source\repos\ArraySumTo10\ArraySumTo10\obj\Debug\ArraySumTo10.csprojAssemblyReference.cache
+C:\Users\User0\source\repos\ArraySumTo10\ArraySumTo10\obj\Debug\ArraySumTo10.csproj.CoreCompileInputs.cache
+C:\Users\User0\source\repos\ArraySumTo10\ArraySumTo10\obj\Debug\ArraySumTo10.exe
+C:\Users\User0\source\repos\ArraySumTo10\ArraySumTo10\obj\Debug\ArraySumTo10.pdb
