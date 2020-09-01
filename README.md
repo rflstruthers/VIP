@@ -1,2 +1,1 @@
-##VIP Technical Exercise
-C# console application
+VIP Technical Exercise. C# console application.
